@@ -44,6 +44,7 @@
 section {
   position: relative;
   top: 80px;
+  width: fit-content;
 }
 
 .to-home {
